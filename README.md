@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack (MERN) Web Development**
 
-- 📝 I’m completed certification in **Google Data Analyst**
+- 📝 I have completed certification in **Google Data Analyst**
 
 - 📫 How to reach me **dhruv2005rathi@gmail.com**
 
